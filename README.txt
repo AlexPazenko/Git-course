@@ -1,2 +1,2 @@
 This is the Hello World example from the git tutorial.
-(changed in original)git add README
+(Changed in the original and pushed to shared)
